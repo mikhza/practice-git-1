@@ -1,2 +1,4 @@
 My first lin in project
 Paris is the capital of France
+First test string
+Second test string 
